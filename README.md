@@ -73,3 +73,22 @@ Try the simulation yourself here: [Wokwi Project Link](https://wokwi.com/project
 2.	Open src/sketch.ino in Arduino IDE or PlatformIO.
 3.	Run the simulation on Wokwi or upload to real hardware.
 
+📌 Next Steps
+	•	PCB layout design for real-world deployment.
+	•	Hardware testing with physical LED matrix + RTC module.
+	•	Add features like snooze, brightness control, or multiple alarms.
+
+⸻
+
+## 📝 License
+
+This project is licensed under the MIT License. Feel free to use and modify.
+
+⸻
+
+## 👩‍💻 Author
+	  Gbemisola Ogunkanmbi
+    Electrical & Electronics Engineering Student, University of Lagos
+    Aspiring Embedded Systems & Security Engineer
+    [LinkedIn] ()
+

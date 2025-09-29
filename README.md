@@ -59,7 +59,8 @@ led-matrix-clock
 ---
 
 ## 📸 Demo
-![LED Matrix Clock Screenshot](./docs/screenshot.png)  
+![LED Matrix Clock Screenshot]([./docs/screenshot.png](https://github.com/TeeToWrld/-led-matrix-clock-/blob/main/Screenshot%202025-09-29%20at%2012.37.08.png))  
+
 *(Screenshot from Wokwi simulation)*
 
 Try the simulation yourself here: [Wokwi Project Link](https://wokwi.com/projects/443331002149893121))
